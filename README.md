@@ -27,7 +27,7 @@ TECHNOLOGIES:
 
 SETUP AND INSSTALLATION:
 
-> Clone the repository:git clone https:(https://github.com/assistantgimini/Elevator.git)
+> Clone the repository:git clone https:(https://github.com/RAHULBISOYI/card_deck.git)
 
 > Open the project in your preferred Java IDE.
 
